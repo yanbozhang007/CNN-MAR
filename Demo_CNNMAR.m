@@ -8,8 +8,8 @@
 % 2018-02-06
 
 
-useGPU = 1;     % 0: cpu; 1: gpu
-preTrain = 0;   % 0: train a network; 1: load a pretrained network
+useGPU = 0;     % 0: cpu; 1: gpu
+preTrain = 1;   % 0: train a network; 1: load a pretrained network
 dataID = 2;     % the id of testing data sample in "..\data" folder, set to {0,1,2,3}. "0" means a new data not given in the data folder
 miuWater = 0.19;% the linear attenuation coefficient of water [1/cm], this may change for different scans, please adjust it
 % metalThreshHU = 4000; % the threshold to segment metal, users need to mannully tune this parameter to be adaptive to different metal cases [HU]
