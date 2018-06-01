@@ -40,6 +40,6 @@ Please consider citing following articles if you use this code for the research 
      
 2. Yanbo Zhang and Hengyong Yu, "Convolutional Neural Network Based Metal Artifact Reduction in X-ray Computed Tomography," arXiv preprint arXiv:1709.01581, 2017.
     
-3. Yanbo Zhang and Hengyong Yu, "Convolutional Neural Network Based Metal Artifact Reduction in X-ray Computed Tomography," IEEE Transactions on Medical Imaging, 2018. (Accepted)
+3. Yanbo Zhang and Hengyong Yu, "Convolutional Neural Network Based Metal Artifact Reduction in X-ray Computed Tomography," IEEE Transactions on Medical Imaging, 37(6):1370-1381, 2018.
      
      
