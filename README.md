@@ -3,7 +3,7 @@
 
 **Version 1.0**
  
-Dr. Yanbo Zhang (yanbozhang07@gmail.com) 
+Dr. Yanbo Zhang (yanbozhang007@gmail.com) 
 
 Dr. Hengyong Yu (hengyong_yu@uml.edu) 
 
